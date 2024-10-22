@@ -25,7 +25,7 @@ This notebook presents a series of examples using Hugging Face  models to accomp
 
 5 - Speech to text: Applying TTS models (distil-whisper/distil-small.en) to transform text into synthesized speech, illustrating how machines can vocalize textual content.
 
-6 - Text to Speech (Speech Synthesis): Applying TTS models ( Bark model, Speecht5_tts) to transform text into synthesized speech, illustrating how machines can give voice to text.
+6 - Text to Speech: Applying TTS models ( Bark model, Speecht5_tts) to transform text into synthesized speech, illustrating how machines can give voice to text.
 
 7 - Object Detection: Employing models like (facebook/detr-resnet-50) to detect and locate objects within images, with potential applications in surveillance, robotics, and more.
 
