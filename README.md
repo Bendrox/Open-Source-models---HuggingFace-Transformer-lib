@@ -1,16 +1,20 @@
 
-**Introduction : 
-**This notebook presents a series of examples using Hugging Face  models to accomplish various tasks in the fields of NLP, computer vision, and audio. The goal is to demonstrate the versatile capabilities of pretrained models and show how they can be applied.
+Introduction : 
 
-**Objectives of the Notebook:
-**
+This notebook presents a series of examples using Hugging Face  models to accomplish various tasks in the fields of NLP, computer vision, and audio. The goal is to demonstrate the versatile capabilities of pretrained models and show how they can be applied.
+
+Objectives of the Notebook:
+
 - Explore the capabilities of Hugging Face pretrained models across different domains.
+  
 - Learn how to load and use these models for specific tasks.
+  
 - Understand how Hugging Face pipelines simplify the inference process.
+  
 - Demonstrate interoperability between different modalities (text, audio, image).
 
-**Tasks Covered : 
-**
+Tasks Covered : 
+
 1 - Text2Text (Translation, Summarization, Text Generation): Using models ( facebook/blenderbot-400M-distill ) to translate texts, summarize , and generate text from specific prompts.
 
 2 - Speech2Text (Speech Recognition): Implementing models (facebook/nllb-200-distilled-600M & facebook/bart-large-cnn) to transcribe audio into text, enabling the conversion of speech into written text.
