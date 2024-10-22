@@ -1,9 +1,9 @@
 
-Introduction : 
+## Introduction : 
 
 This notebook presents a series of examples using Hugging Face  models to accomplish various tasks in the fields of NLP, computer vision, and audio. The goal is to demonstrate the versatile capabilities of pretrained models and show how they can be applied.
 
-Objectives of the Notebook:
+## Objectives of the Notebook:
 
 - Explore the capabilities of Hugging Face pretrained models across different domains.
   
@@ -13,7 +13,7 @@ Objectives of the Notebook:
   
 - Demonstrate interoperability between different modalities (text, audio, image).
 
-Tasks Covered : 
+## Tasks Covered : 
 
 1 - Text2Text (Translation, Summarization, Text Generation): Using models ( facebook/blenderbot-400M-distill ) to translate texts, summarize , and generate text from specific prompts.
 
