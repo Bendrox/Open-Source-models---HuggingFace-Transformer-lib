@@ -1,7 +1,7 @@
 
 ## Introduction : 
 
-This notebook presents a series of examples using Hugging Face  models to accomplish various tasks in the fields of NLP, computer vision, and audio. The goal is to demonstrate the versatile capabilities of pretrained models and show how they can be applied.
+This notebook presents a series of examples using Hugging Face  models to accomplish various tasks in the fields of NLP, computer vision, and audio. The goal is to demonstrate the  capabilities of pretrained models and show how they can be applied.
 
 ## Objectives of the Notebook:
 
