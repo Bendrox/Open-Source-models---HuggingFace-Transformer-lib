@@ -7,11 +7,9 @@ This notebook presents a series of examples using Hugging Face  models to accomp
 
 - Explore the capabilities of Hugging Face pretrained models across different domains.
   
-- Learn how to load and use these models for specific tasks.
+- Learn how to load and use these models for specific tasks for modalities (text, audio, image).
   
 - Understand how Hugging Face pipelines simplify the inference process.
-  
-- Demonstrate interoperability between different modalities (text, audio, image).
 
 ## Tasks Covered : 
 
