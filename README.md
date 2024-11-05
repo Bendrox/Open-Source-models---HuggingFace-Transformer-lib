@@ -15,7 +15,7 @@ This notebook presents a series of examples using Hugging Face  models to accomp
 
 **1 - Text to Text** (Text completion, Text Generation, summarization): Using models ( facebook/blenderbot-400M-distill ) to translate texts, summarize , and generate text from specific prompts.
 
-**2 - Speech2Text:** Implementing models (facebook/nllb-200-distilled-600M & facebook/bart-large-cnn) to transcribe audio into text, enabling the conversion of speech into written text.
+**2 - Speech to Text:** Implementing models (facebook/nllb-200-distilled-600M & facebook/bart-large-cnn) to transcribe audio into text, enabling the conversion of speech into written text.
 
 **3 - Sentence embedding:** to generate meaningful vector (all-MiniLM-L6-v2) representations of sentences for tasks like semantic similarity, clustering, and information retrieval.
 
